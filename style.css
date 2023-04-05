@@ -1,16 +1,5 @@
 :root{
     /* ========== GREEN THEME ========== */
-    --color-primary: #ff7b02;
-    --color-primary-variant: #e5a55d;
-    --color-bg-1: #000e17;
-    --color-bg-2: #001e2d;
-    --color-bg-3: #012734;
-    --color-bg-4: #003347;
-    --color-light: #85a2b2;
-    --color-white: hsl(0,0%,90%);
-
-
-    /* ========== MY OWN THEME ========== */
     /* --color-primary: #ff7b02;
     --color-primary-variant: #e5a55d;
     --color-bg-1: #000e17;
@@ -19,17 +8,26 @@
     --color-bg-4: #003347;
     --color-light: #85a2b2;
     --color-white: hsl(0,0%,90%); */
-    
+
+    /* ========== PURPLE THEME ========== */
+    /* --color-primary: #d4d1cf;
+    --color-primary-variant: #c7b49f;
+    --color-bg-1: #cbc0d3;
+    --color-bg-2: #c7c1ca;
+    --color-bg-3: #d6b3ec;
+    --color-bg-4: #6fc7e2;
+    --color-light: #2f034e;
+    --color-white: hsl(0, 0%, 100%); */
     
     /* ========== PURPLE THEME ========== */
-    /* --color-primary: #ff7b02;
+    --color-primary: #ff7b02;
     --color-primary-variant: #e5a55d;
     --color-bg-1: #140021;
     --color-bg-2: #1e0032;
     --color-bg-3: #25003e;
     --color-bg-4: #36005a;
     --color-light: #d0b8e0;
-    --color-white: hsl(0,0%,90%); */
+    --color-white: hsl(0,0%,90%);
 
     
     --container-width-lg:88%;
@@ -141,7 +139,7 @@ nav {
 }
 
 .nav__logo {
-    width: 4.5rem;
+    width: 7rem;
 }
 
 .nav__links {
